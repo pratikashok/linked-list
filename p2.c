@@ -1,3 +1,4 @@
+// LINKED LIST  NODES WITH DIFFERENT DATA TYPES
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
